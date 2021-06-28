@@ -10573,7 +10573,7 @@ html.ie .v-s-boxes .v-s-box.invalid::after {
 
 .widget-image-box.widget-primary a[href].widget-inner:hover .widget-caption {
   color: #fff;
-  background-color: rgba(185, 42, 56, 0.9); }
+  background-color: ; }
   .widget-image-box.widget-primary a[href].widget-inner:hover .widget-caption a {
     color: #fff; }
 
@@ -10824,7 +10824,7 @@ html.ie .widget-image-carousel .widget-inner .carousel-item .img-cover {
 .widget-image-carousel.widget-primary:hover .widget-caption h2,
 .widget-image-carousel.widget-primary:hover .widget-caption .h2 {
   color: #fff;
-  background-color: rgba(185, 42, 56, 0.9); }
+  background-color: ; }
   .widget-image-carousel.widget-primary:hover .widget-caption h2 a,
   .widget-image-carousel.widget-primary:hover .widget-caption .h2 a {
     color: #fff; }
