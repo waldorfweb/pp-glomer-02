@@ -10567,7 +10567,7 @@ html.ie .v-s-boxes .v-s-box.invalid::after {
 
 .widget-image-box.widget-primary .widget-caption {
   color: #fff;
-  background-color: rgba(185, 42, 56, 0.8); }
+  background-color: rgba(64, 71, 133, 0.8); }
   .widget-image-box.widget-primary .widget-caption a {
     color: #fff; }
 
@@ -10816,7 +10816,7 @@ html.ie .widget-image-carousel .widget-inner .carousel-item .img-cover {
 .widget-image-carousel.widget-primary .widget-caption h2,
 .widget-image-carousel.widget-primary .widget-caption .h2 {
   color: #fff;
-  background-color: rgba(185, 42, 56, 0.8); }
+  background-color: rgba(64, 71, 133, 0.8); }
   .widget-image-carousel.widget-primary .widget-caption h2 a,
   .widget-image-carousel.widget-primary .widget-caption .h2 a {
     color: #fff; }
