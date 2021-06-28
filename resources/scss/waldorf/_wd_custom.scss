@@ -4,6 +4,7 @@ body {
    
   a {
 	font-family: 'Exo 2', sans-serif !important;
+    color: inherit;
   }
 
   .blog-entrypoint{
@@ -17,8 +18,8 @@ body {
   div#ppButton img {
 	  float: right;
 	  padding: 15px;
-  }
-  
+
+  }  
   /* Farbanpassungen */
   .navbar {
 	  background-color: #ffffff !important;
