@@ -4745,7 +4745,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #00688a !important; }
+  background-color: #3f4785cc !important; }
 
 .bg-secondary {
   background-color: #6c757d !important; }
@@ -11215,7 +11215,7 @@ body.menu-is-visible {
   color: #3f4785 !important; }
 
 .megamenu .level1:hover a {
-  color: #00688a !important; }
+  color: #3f4785cc !important; }
 
 .megamenu .level3 {
   padding-left: 2.5em !important; }
@@ -12086,7 +12086,7 @@ header .widget {
 .widget-primary a.bg-appearance:hover,
 .widget-primary button.bg-appearance:hover {
   color: #fff !important;
-  background-color: #00688a !important; }
+  background-color: #3f4785cc !important; }
 
 .widget-primary .btn-appearance {
   color: #fff;
