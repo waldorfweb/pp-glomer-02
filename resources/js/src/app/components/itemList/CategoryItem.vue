@@ -60,10 +60,10 @@
                     <div v-if="!isBook"  class="item-details__book-details">
 
                         <span v-if="item.texts.name3" class="item-details__subtitle">
-                            "{{ item.texts.name3 }}"
+                            von {{ item.texts.name3 }}
                         </span>
                         <span v-if="item.texts.name2" class="item-details__author">
-                            von {{ item.texts.name2 }}
+                             {{ item.texts.name2 }}
                         </span>
 
                         <span v-if="item.texts.shortDescription" class="item-details__short">

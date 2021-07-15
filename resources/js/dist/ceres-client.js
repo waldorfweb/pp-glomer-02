@@ -38488,9 +38488,9 @@ var render = function() {
                               { staticClass: "item-details__subtitle" },
                               [
                                 _vm._v(
-                                  '\n                        "' +
+                                  "\n                        von " +
                                     _vm._s(_vm.item.texts.name3) +
-                                    '"\n                    '
+                                    "\n                    "
                                 )
                               ]
                             )
@@ -38502,7 +38502,7 @@ var render = function() {
                               { staticClass: "item-details__author" },
                               [
                                 _vm._v(
-                                  "\n                        von " +
+                                  "\n                         " +
                                     _vm._s(_vm.item.texts.name2) +
                                     "\n                    "
                                 )
