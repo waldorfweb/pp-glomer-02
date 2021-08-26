@@ -14836,3 +14836,17 @@ body {
   color: white;
   cursor: pointer; }
 
+/* Kategoriebeschreibung */
+/*.widget_kat_description_1 a {display:none; }*/
+.widget_kat_description_1 .weiterlesen {
+  display: none !important; }
+
+.widget_kat_description_1 .weiterlesen.neuerButton {
+  display: block !important; }
+
+.weiterlesen {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 20px;
+  top: -12px; }
+
