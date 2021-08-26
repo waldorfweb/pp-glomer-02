@@ -944,8 +944,19 @@ width: 100%;
     cursor: pointer;
     }
 
-    /* Kategoriebeschreibung */
+
+    /* Kategorie Description */
 /*.widget_kat_description_1 a {display:none; }*/
+.widget_kat_description_1{margin-bottom:60px;}
 .widget_kat_description_1 .weiterlesen {display:none !important; }
 .widget_kat_description_1 .weiterlesen.neuerButton {display:block !important; }
-.weiterlesen { position: relative;  margin-top: 0;   margin-bottom: 20px; top:-12px;}
+.weiterlesen { position: relative;  margin-top: 0;   margin-bottom: 20px; top:-6px; float:left; clear:both;}
+.weiterlesena{
+    width: 100%;
+    display: block;
+    float: left;
+}
+
+.widget_kat_description_2 .weiterlesen {
+    display: none;
+}
