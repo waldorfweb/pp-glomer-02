@@ -14839,7 +14839,7 @@ body {
 /* Kategorie Description */
 /*.widget_kat_description_1 a {display:none; }*/
 .widget_kat_description_1 {
-  margin-bottom: 70px; }
+  /*margin-bottom:70px;*/ }
 
 .widget_kat_description_1 .weiterlesen {
   display: none !important; }
