@@ -14845,7 +14845,8 @@ body {
   display: none !important; }
 
 .widget_kat_description_1 .weiterlesen.neuerButton {
-  display: block !important; }
+  display: block !important;
+  z-index: 1 !important; }
 
 .weiterlesen {
   position: relative;
