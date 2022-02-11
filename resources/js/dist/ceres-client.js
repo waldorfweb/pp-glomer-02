@@ -38460,10 +38460,7 @@ var render = function() {
                       }
                     },
                     [
-                      _vm._v(
-                        "\n                    " +
-                          _vm._s(_vm._f("itemName")(_vm.item))
-                      ),
+                      _vm._v("\n                    " + _vm._s(_vm.item)),
                       _vm._l(_vm.item.groupedAttributes, function(attribute) {
                         return _c("span", [
                           _vm._v(
